@@ -11,7 +11,7 @@
 --pale-blue: hsl(225, 100%, 94%);
 --dark-blue: hsl(223, 47%, 23%);
 --bright-blue: hsl(245, 75%, 52%);
---on-hover-blue:hsla(245, 75%, 52%, 0.655);
+--on-hover-blue:hsla(245, 75%, 52%, 0.7);
 }
 
 html{
