@@ -22,6 +22,7 @@ body{
     font-size: 1.6rem;
     font-family: "Red Hat Display", serif;
     color: var(--dark-blue);
+    font-weight:500 ;
 }
 main{
     width: 100vw;
@@ -45,11 +46,13 @@ main{
 
 .content-wrapper{
     padding: 4.5rem;
+    padding-bottom: 3rem ;
     text-align: center;
 }
 
 .title{
     font-weight: 900;
+    font-size: 2.8rem;
     margin-bottom: 2.5rem;
 }
 
@@ -89,7 +92,7 @@ main{
 }
 
 .change-plan{
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     color: var(--bright-blue);
     font-weight: 700;
     text-decoration: underline;
@@ -103,7 +106,6 @@ main{
 .order-actions{
     display: flex;
     flex-direction: column;
-    gap: 2rem;
 }
 
 .order-action-button{
