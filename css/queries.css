@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+ 
+    .container{
+        max-width: 32.5rem;
+    }
+
+    .content-wrapper{
+        padding: 2rem;
+    }
+  }
