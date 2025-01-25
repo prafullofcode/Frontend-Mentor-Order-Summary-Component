@@ -27,10 +27,13 @@ body{
 main{
     width: 100vw;
     min-height: 100vh;
-    background-color: var(--pale-blue);
     display: flex;
     align-items: center;
     justify-content: center;
+    background: var(--pale-blue);
+    background-image: url(../images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .container{
